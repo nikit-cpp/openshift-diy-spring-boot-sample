@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы пять"/>
     <meta property="og:description" content="Статья пять"/>
     <meta property="og:image" content="${base}/img/spring-new.png"/>
+    <link rel="image_src" href="${base}/img/spring-new.png" />
 </head>
 
 <body>

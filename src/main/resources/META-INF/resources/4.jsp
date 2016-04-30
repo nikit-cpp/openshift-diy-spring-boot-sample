@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы четыре"/>
     <meta property="og:description" content="Статья четыре"/>
     <meta property="og:image" content="${base}/img/pg.png"/>
+    <link rel="image_src" href="${base}/img/pg.png" />
 </head>
 
 <body>

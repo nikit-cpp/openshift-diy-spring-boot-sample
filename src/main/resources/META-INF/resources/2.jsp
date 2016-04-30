@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы два"/>
     <meta property="og:description" content="Статья два"/>
     <meta property="og:image" content="${base}/img/java.png"/>
+    <link rel="image_src" href="${base}/img/java.png" />
 </head>
 
 <body>

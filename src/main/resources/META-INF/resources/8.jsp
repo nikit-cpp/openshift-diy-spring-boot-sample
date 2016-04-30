@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы восемь"/>
     <meta property="og:description" content="Статья восемь"/>
     <meta property="og:image" content="${base}/img/mvn.png"/>
+    <link rel="image_src" href="${base}/img/mvn.png" />
 </head>
 
 <body>

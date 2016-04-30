@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы шесть"/>
     <meta property="og:description" content="Статья шесть"/>
     <meta property="og:image" content="${base}/img/tomcat.png"/>
+    <link rel="image_src" href="${base}/img/tomcat.png" />
 </head>
 
 <body>

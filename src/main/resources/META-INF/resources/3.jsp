@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы три"/>
     <meta property="og:description" content="Статья три"/>
     <meta property="og:image" content="${base}/img/underscore.png"/>
+    <link rel="image_src" href="${base}/img/underscore.png" />
 </head>
 
 <body>

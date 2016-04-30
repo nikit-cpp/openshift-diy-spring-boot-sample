@@ -10,6 +10,7 @@
     <meta property="og:title" content="Заголовок страницы один"/>
     <meta property="og:description" content="Статья один"/>
     <meta property="og:image" content="${base}/img/backbone.png"/>
+    <link rel="image_src" href="${base}/img/backbone.png" />
 </head>
 
 <body>
