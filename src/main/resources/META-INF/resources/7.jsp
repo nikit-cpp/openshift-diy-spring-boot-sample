@@ -3,7 +3,7 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
-<html>
+<html prefix="og: http://ogp.me/ns#">
 <head>
     <title>Один</title>
     <%@ include file="og.jsp" %>
