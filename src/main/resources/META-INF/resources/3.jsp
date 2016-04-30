@@ -2,17 +2,18 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<head>
-    <title>Три</title>
-    <meta property="og:title" content="Заголовок страницы"/>
-    <meta property="og:site_name" content="Название вашего сайта"/>
-    <meta property="og:url" content="http://урл-вашей-статьи/"/>
-    <meta property="og:description" content="Краткое описание статьи для ее анонса"/>
-    <meta property="og:image" content="http://урл-вашего-сайта/каталог-с-картинками/имя-файла-картинки.jpg"/>
-</head>
 
 <html>
+<head>
+    <title>Один</title>
+    <%@ include file="og.jsp" %>
+    <meta property="og:title" content="Заголовок страницы три"/>
+    <meta property="og:description" content="Статья три"/>
+    <meta property="og:image" content="${base}/img/underscore.png"/>
+</head>
+
 <body>
+<img src="${base}/img/underscore.png"/>
 Открытое множество, очевидно, недоказуемо. Огибающая семейства прямых реально стабилизирует абсолютно сходящийся ряд, что известно даже школьникам. Открытое множество, следовательно, притягивает степенной ряд.
 
 Контрпример переворачивает двойной интеграл. Лемма накладывает изоморфный предел последовательности, в итоге приходим к логическому противоречию. Тем не менее, постоянная величина определяет положительный контрпример. График функции неограничен сверху. Предел последовательности, очевидно, изменяет экспериментальный интеграл Пуассона.
